@@ -1,7 +1,7 @@
 img {
-    width: 200px;
-    height: 200px;
-    background-color: whitesmoke;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
 }
 h1{
     text-align: left;
@@ -17,7 +17,7 @@ div{
     background-color: white;
     margin: inherit;
     padding: inherit;
-    image-resolution: 50px;
+    image-resolution: 100px;
     text-align: center;
 }
 body{
@@ -25,7 +25,7 @@ body{
     text-align: left;
     padding: 5px;
     border: 1px solid blue;
-    background-color:white;
+    background-color: black;
 }
 ul{
     text-align: left;
@@ -65,6 +65,6 @@ h2{
     position: relative;
     top: 5px;
     right: 10px;
-    color: whitesmoke;
+    background-color: crimson;
     font-size: 15px;
 }
