@@ -10,7 +10,7 @@ https://lh3.googleusercontent.com/R6WjGzYhU8mv0N5n7TUEweg4VlY2QuYnT7F7PR-K5Iz204
 * Clone this repo to your desktop and run sudo install to install all the dependencies.
 ## Known Bugs
 {None}
-## HTML and CSS}
+## {HTML and CSS}
 ## Support and contact details
 {ezekiel.nyambane@student.moringaschool.com}
 ### License
