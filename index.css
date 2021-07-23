@@ -3,9 +3,7 @@ img {
     height: 100px;
     background-color: brown;
 }
-h1{
-    text-align: left;
-}
+    
 p{
     text-align: left;
     font-style: italic;
@@ -15,7 +13,7 @@ p{
     max-width: initial;
     max-height: initial;
     background-color: white;
-    margin: 1em;
+    margin: 0.5em;
     padding: inherit;
     image-resolution: 100px;
 }
@@ -45,6 +43,8 @@ ol{
 h1{
     color: rgb(0, 0, 128);
     text-align: left;
+    text-shadow: 2px 2px 5px brown;
+    padding: 10px;
 }
 h2{
     color: rgb(0, 0, 128);
