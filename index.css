@@ -53,11 +53,11 @@ h2{
     padding: 5px;
     margin: auto;
 }
-.gallery img {
+.gallery {
     opacity: o.5;
     cursor: zoom-out;
 }
-.gallery img:hover {
+.gallery :hover {
     opacity: 1;
 }
 .row::after {
