@@ -27,6 +27,11 @@ body{
     border: 1px solid blue;
     background-color: white;
 }
+img {
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+}
 ul{
     text-align: left;
     display: list-item;
@@ -47,7 +52,7 @@ h2{
     float: right;
     width: 25%;
     padding: 5px;
-
+    margin: auto;
 }
 .gallery img {
     opacity: o.5;
@@ -58,8 +63,7 @@ h2{
 }
 .row::after {
     content: normal;
-    display: initial;
-    display: unset;
+    display: list-item;
 }
 #imagetext {
     position: relative;
