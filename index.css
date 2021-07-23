@@ -10,12 +10,11 @@ p{
     font-family: sans-serif;
 }
 .gallery{
-    max-width: initial;
-    max-height: initial;
+    max-width: 800px;
+    max-height: 800px;
     background-color: brown;
-    margin: 0.5em;
-    padding: inherit;
-    image-resolution: 100px;
+    image-resolution: 800px;
+    margin-top: 0.1em;
 }
 body{
     color: rgb(750, 0, 130);
@@ -50,15 +49,11 @@ h2{
     color: rgb(0, 0, 128);
     text-align: left;
 }
+
 .gallery {
-    float: inline-end;
-    width: 50%;
-    padding: 5px;
-    margin: 0.2;
-}
-.gallery {
-    opacity: o.5;
+    opacity: 0.8;
     cursor: zoom-out;
+    text-justify: auto;
 }
 .gallery :hover {
     opacity: 1;
