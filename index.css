@@ -27,9 +27,12 @@ body{
     background-color: white;
 }
 img {
-    width: 100px;
-    height: 100px;
-    background-color: brown;
+    width: 200x;
+    height: 200px;
+    position: center;
+    top: 5px;
+    right: 10px;
+    background-color: crimson;
 }
 ul{
     text-align: left;
@@ -64,10 +67,5 @@ h2{
     content: normal;
     display: list-item;
 }
-#imagetext {
-    position: relative;
-    top: 5px;
-    right: 10px;
-    background-color: crimson;
-    font-size: 15px;
-}
+ 
+   
