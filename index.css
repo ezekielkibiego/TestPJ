@@ -51,8 +51,8 @@ h2{
     text-align: left;
 }
 .gallery {
-    float: right;
-    width: 25%;
+    float: inline-end;
+    width: 50%;
     padding: 5px;
     margin: 0.2;
 }
