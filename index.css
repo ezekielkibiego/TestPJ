@@ -12,7 +12,7 @@ p{
 .gallery{
     max-width: initial;
     max-height: initial;
-    background-color: white;
+    background-color: brown;
     margin: 0.5em;
     padding: inherit;
     image-resolution: 100px;
