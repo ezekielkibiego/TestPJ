@@ -11,14 +11,13 @@ p{
     font-style: normal;
     font-family: fantasy;
 }
-div{
+.gallery{
     max-width: initial;
     max-height: initial;
     background-color: white;
-    margin: inherit;
+    margin: 1em;
     padding: inherit;
     image-resolution: 100px;
-    text-align: center;
 }
 body{
     color: rgb(750, 0, 130);
