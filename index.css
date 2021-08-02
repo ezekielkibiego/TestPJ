@@ -1,20 +1,8 @@
-img {
-    width: 100px;
-    height: 100px;
-    background-color: brown;
-}
-    
+   
 p{
     text-align: left;
     font-style: italic;
     font-family: sans-serif;
-}
-.gallery{
-    max-width: 800px;
-    max-height: 800px;
-    background-color: brown;
-    image-resolution: 800px;
-    margin-top: 0.1em;
 }
 body{
     color: rgb(750, 0, 130);
@@ -41,7 +29,7 @@ ol{
 }
 h1{
     color: rgb(0, 0, 128);
-    text-align: left;
+    text-align: center;
     text-shadow: 2px 2px 5px brown;
     padding: 10px;
 }
@@ -51,17 +39,10 @@ h2{
 }
 
 .grid-container {
-    
-    grid-row: auto auto auto;
-
-}
-
-.gallery :hover {
-    opacity: 1;
-}
-.row::after {
-    content: normal;
-    display: list-item;
+    display: inline-grid;
+    grid-template-columns: auto auto auto;
+    background-color: green;
+    margin-left: 30px;
 }
  
    
