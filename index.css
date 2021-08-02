@@ -50,11 +50,12 @@ h2{
     text-align: left;
 }
 
-.gallery {
-    opacity: 0.8;
-    cursor: zoom-out;
-    text-justify: auto;
+.grid-container {
+    
+    grid-row: auto auto auto;
+
 }
+
 .gallery :hover {
     opacity: 1;
 }
